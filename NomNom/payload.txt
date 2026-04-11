@@ -1,0 +1,26 @@
+REM                     /___/\_      
+REM                    _\   \/_/\__  
+REM                  /__\       \/_/\ 
+REM                  \   __    __ \ \
+REM                 __\  \_\   \_\ \ \   __ 
+REM                /_/\\   __   __  \ \_/_/\
+REM               \_\/_\__\/\__\/\__\/_\_\/
+REM                 \_\/_/\       /_\_\/
+REM                   \_\/       \_\/
+REM     _   __                _   __              
+REM    / | / /___  ____ ___  / | / /___  ____ ___ 
+REM   /  |/ / __ \/ __ `__ \/  |/ / __ \/ __ `__ \
+REM  / /|  / /_/ / / / / / / /|  / /_/ / / / / / /
+REM /_/ |_/\____/_/ /_/ /_/_/ |_/\____/_/ /_/ /_/ 
+REM                                              
+
+DELAY 600
+WINDOWS r
+DELAY 200
+STRING cmd /k %USERPROFILE%\Desktop\banner.bat
+DELAY 200
+ENTER
+DELAY 500
+ENTER
+STRING exit
+ENTER
