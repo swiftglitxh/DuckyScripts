@@ -1,1 +1,1 @@
-Copy-Item %USERPROFILE%\AppData\Roaming\Microsoft %USERPROFILE%\Desktop\ -Recurse
+Copy-Item C:\Users\$env:USERNAME\AppData\Roaming\Microsoft C:\Users\$env:USERNAME\Desktop\ -Recurse
